@@ -7,5 +7,14 @@ The dataset includes 3 files. Please download the dataset files from BaiduYun.<b
 * [meteorological annotation](https://pan.baidu.com/s/1jLkAVxvuKsvfu5SYP4fR8g), the meteorological annotations of tropical cyclones. Fetch Code: `ko5c`
 
 Please cite our papers if the dataset is useful for you. Thank you!
->xxxxxx
+>
+>@inproceedings{huang2021tropical,<br>
+  title={Tropical Cyclones Tracking Based on Satellite Cloud Images: Database and Comprehensive Study},<br>
+  author={Huang, Cheng and Chan, Sixian and Bai, Cong and Ding, Weilong and Zhang, Jinglin},<br>
+  booktitle={International Conference on Multimedia Modeling},<br>
+  pages={13--25},<br>
+  year={2021},<br>
+  organization={Springer},<br>
+  DOI={https://doi.org/10.1007/978-3-030-67835-7_2}<br>
+}
 
