@@ -15,6 +15,5 @@ Please cite our papers if the dataset is useful for you. Thank you!
   pages={13--25},<br>
   year={2021},<br>
   organization={Springer},<br>
-  DOI={https://doi.org/10.1007/978-3-030-67835-7_2 }<br>
 }
 
